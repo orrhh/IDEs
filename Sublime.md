@@ -17,6 +17,8 @@ SublimeLinter
 Pretty JSON  
 Git - https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow  
 Search Project - https://github.com/leonid-shevtsov/SearchInProject_SublimeText#search-in-project  
+Web Inspector - http://sokolovstas.github.io/SublimeWebInspector/  
+
 
 **Git Workflow**  
 In Github:  
